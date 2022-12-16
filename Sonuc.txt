@@ -1,0 +1,7 @@
+en kisa yol icin P2 Yarismaci puan sayisi   :   ( 15 ) 
+sira  Yarismaci  odul  adim  puan
+1.    P2          Z      87    15
+2.    P1          Y      88    20
+3.    P3          S      95    10
+4.    P4          P      107    10
+en yuksik puan icin ( P1 )kazandi , Yarismaci puan sayisi   :   ( 20 ) 
